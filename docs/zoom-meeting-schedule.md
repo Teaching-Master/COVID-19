@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Zoom Meetings
 
 Meeting link: [https://zoom.us/j/6030357373](https://zoom.us/j/6030357373)
