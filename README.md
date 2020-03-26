@@ -12,7 +12,7 @@ This template is the boilerplate for a single Canvas page.
 1. Create an page on Canvas.
 1. Edit the page:
    - Switch to HTML mode.
-   - Add an ```<iframe src="" width="100%" height="660px">``` tag.
+   - Add an ```<iframe src="https://teaching-master.github.io/COVID-19-Learning/" width="100%" height="660px">``` tag.
    - Use the GitHub pages URL of this repository as the ```src``` artribute of the ```iframe``` tag.
 1. Edit ```docs/_data/page.yml``` to reflect the parameters of this page. Custom values may be added, they can be referenced in [Liquid][] code as ```site.data.page.valueName```.
 
