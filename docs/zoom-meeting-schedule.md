@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-# Zoom Meeting Information
+# General Meeting Information
 
 In the strange new world of Zoombombing we've had to step up meeting security, here's the new routine:
 1. Meetings require a password – the passwords for our class meetings are embedded in the links below, please don't share them.
