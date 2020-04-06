@@ -2,10 +2,12 @@
 layout: page
 ---
 
-# Overview
+# Essential Standards
 
-<img class="overview-image" src="">
+<!--img class="overview-image" src=""-->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+* Colloboration
+* Reflection (Metacognition)
+* Self-directed Learning
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
