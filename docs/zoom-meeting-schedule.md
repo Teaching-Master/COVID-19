@@ -18,4 +18,4 @@ Meeting link: [https://zoom.us/j/6030357373](https://zoom.us/j/6030357373)
 [a+]: <>
 [csp]: <>
 [gdp1]: <>
-[gdp2]: <>
+[gdp2]: <https://zoom.us/j/107843286?pwd=b2N3QXFpZGVOQ0pmczlxcnZtWDFTUT09>
