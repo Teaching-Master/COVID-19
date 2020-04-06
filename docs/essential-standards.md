@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# Essential Standards
-
 <!--img class="overview-image" src=""-->
 
 * Collaboration
