@@ -6,7 +6,7 @@ layout: page
 
 <!--img class="overview-image" src=""-->
 
-* Colloboration
+* Collaboration
 * Reflection (Metacognition)
 * Self-directed Learning
 
