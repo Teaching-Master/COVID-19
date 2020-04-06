@@ -13,7 +13,7 @@ Meeting link: [https://zoom.us/j/6030357373](https://zoom.us/j/6030357373)
 | 12:00 (Block 1/5)   | [Game Design & Programming 2][gdp2] | [AP CS Principles][csp]
 | 12:30 (Block 2/6)   | [A+ Certification][a+]              |
 | 13:00 (Block 3/7)   |                                     | [Game Design & Programming 2][gdp2]
-| 14:00 (Block 4/8)   | [Game Design & Programming 1][gdp1] | [Game Design & Programming 1][gdp1]
+| 13:30 (Block 4/8)   | [Game Design & Programming 1][gdp1] | [Game Design & Programming 1][gdp1]
 
 [a+]: <>
 [csp]: <>
