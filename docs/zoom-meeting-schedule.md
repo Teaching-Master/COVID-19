@@ -19,6 +19,6 @@ In the strange new world of Zoombombing we've had to step up meeting security, h
 | 13:30 (Block 4/8)   | [Game Design & Programming 1][gdp1] | [Game Design & Programming 1][gdp1]
 
 [a+]: <https://zoom.us/j/374869425?pwd=bUdwQXlKY3luTmdLb1RlNjJOWlFLZz09>
-[csp]: <https://zoom.us/j/374869425?pwd=bUdwQXlKY3luTmdLb1RlNjJOWlFLZz09>
+[csp]: <https://zoom.us/j/501851550?pwd=TklNUjA3VkJaaUZvSkRhUVhOd2NzZz09>
 [gdp1]: <https://zoom.us/j/317906877?pwd=RTJjUDdycXlhbDdtVHVaeFJIbjVkZz09>
 [gdp2]: <https://zoom.us/j/107843286?pwd=b2N3QXFpZGVOQ0pmczlxcnZtWDFTUT09>
