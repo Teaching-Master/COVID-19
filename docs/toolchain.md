@@ -13,4 +13,6 @@ Do not install Unity directly, instead instal Unity Hub and use it to manage you
 Instructions:
 
 * [Linux (not ChromeBook), macOS, and Windows](https://unity3d.com/get-unity/download) – download and install Unity Hub **not** Unity itself. Once you have Unity Hub installed, use it to install Unity. Install version **2018.4 (LTS)** for Create with Code.
-* [ChromeBook]()
+* **ChromeBook** – I don't have a ChromeBook to experiment with (yet), but I've found a number of posts on the Internet that claim to show you how to install Unity on a ChromeBook by enabling Linux programs. Here are some links that you might find helpful if you want to give this a try:
+  - [Unity3D is running natively on my Chromebook and I couldn’t be happier!](https://medium.com/@alexanderhaskins/unity3d-is-running-natively-on-my-chromebook-and-i-couldnt-be-happier-512a0c4b5e32) – this post is an overview of enabling Linux apps on a ChromeBook and then installing Unity. The post was written in 2018, so use it more as a guide to what the process is and keep in mind that the process may have evolved and gotten easier.
+
